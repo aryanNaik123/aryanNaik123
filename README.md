@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Aryan
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on using the twitter api to aggregate tweets about Covid-19 in third world countries.
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: aryannnaik@outlook.com 
