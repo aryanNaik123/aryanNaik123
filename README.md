@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aryan
 
-- 🔭 I’m currently working on using the twitter api to aggregate tweets about Covid-19 in third world countries.
+- 🔭 I’m currently working on creating a data science curriculum
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: 
   - ✉ email: aryannnaik@outlook.com 
