@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aryan
 
-- 🔭 I’m currently working on creating a data science curriculum
+- 🔭 I’m currently working on creating a data science curriculum and literature review for data science tools used during the pandemic
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: 
   - ✉ email: aryannnaik@outlook.com 
