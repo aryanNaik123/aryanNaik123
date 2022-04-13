@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Aryan
 
 - 🔭 I’m currently working on creating a data science curriculum and literature review for data science tools used during the pandemic
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently exploring Solidity
 - 📫 How to reach me: 
   - ✉ email: aryannnaik@outlook.com 
   - 🐤 twitter: [@AryanNNaik](https://twitter.com/AryanNNaik)
