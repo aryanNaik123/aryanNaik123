@@ -3,7 +3,7 @@
 - 🔭 Currently building something new
 - 🌱 I’m currently exploring
 - 📫 How to reach me: 
-  - ✉ email: aryannnaik@outlook.com 
+  - ✉ email: aryannnaik01@gmail.com
   - 🐤 twitter: [@AryanNNaik](https://twitter.com/AryanNNaik)
 - ⚡ Fun fact: I like corgis 🐶
 
